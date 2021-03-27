@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: a240b4a156beced4db302c67e1582f5d
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _LightRamp2: {fileID: 2800000, guid: 823623045450c994ea01e781cd95f9ef, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
