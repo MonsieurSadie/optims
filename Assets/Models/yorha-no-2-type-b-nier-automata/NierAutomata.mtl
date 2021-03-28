@@ -1,0 +1,184 @@
+# Blender MTL File: 'None'
+# Material Count: 13
+
+newmtl Clothes1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.544373 0.513607 0.594037
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd clothes_base.png
+map_Bump clothes_nrm.png
+map_Ks clothes_spe.png
+map_d clothes_base.png
+
+newmtl Clothes2
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.582471 0.798250 0.705984
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd clothes_base.png
+map_Bump clothes_nrm.png
+map_Ks clothes_spe.png
+map_d clothes_base.png
+
+newmtl Eye
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.631164 0.552609 0.650210
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd 2b_face_base.png
+map_Bump n.png
+map_Ks M_6.png
+map_d 2b_face_base.png
+
+newmtl Eyepatch
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.477932 0.790284 0.525629
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd clothes_base.png
+map_Bump clothes_nrm.png
+map_Ks clothes_spe.png
+map_d clothes_base.png
+
+newmtl Face
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.762149 0.666858 0.615354
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd 2b_face_base.png
+map_Bump 2b_face_nrm.png
+map_Ks 2b_face_base.png
+map_d 2b_face_base.png
+
+newmtl Feathers
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.580737 0.439827 0.446555
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd L_6.png
+map_Bump n.png
+map_Ks env.png
+map_d L_6.png
+
+newmtl Hair1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.563303 0.528431 0.493305
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd L_6.png
+map_Bump L_7.png
+map_Ks env.png
+map_d L_6.png
+
+newmtl Hair2
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.609358 0.618014 0.719481
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd hair_2.png
+map_Bump hair_2_nrm.png
+map_Ks env.png
+map_d hair_2.png
+
+newmtl Headband
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.625185 0.471677 0.576083
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd env.png
+map_Bump n.png
+map_Ks s.png
+map_d env.png
+
+newmtl Lashes
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.482040 0.567477 0.430637
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd L_0.png
+map_Bump n.png
+map_Ks s.png
+map_d L_0.png
+
+newmtl Mouth
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.757796 0.761721 0.732954
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd 2b_face_base.png
+map_Bump 2b_face_nrm.png
+map_Ks 2b_face_spe.png
+map_d 2b_face_base.png
+
+newmtl Skin
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.561834 0.705340 0.433287
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd 2b_face_base.png
+map_Bump 2b_face_nrm.png
+map_Ks 2b_face_spe.png
+map_d 2b_face_base.png
+
+newmtl Skirt
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.503975 0.597940 0.582218
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd clothes_base.png
+map_Bump clothes_nrm.png
+map_Ks clothes_spe.png
+map_d clothes_base.png
